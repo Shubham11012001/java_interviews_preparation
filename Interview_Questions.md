@@ -4,7 +4,7 @@
 
 ## 1. Core Java & JVM
 
-1. Explain JVM architecture and how Java code is executed internally.
+1. [Explain JVM architecture and how Java code is executed internally.](https://hasithas.medium.com/understanding-how-java-virtual-machine-jvm-works-a1b07c0c399a) . 
 2. How does Java Garbage Collector work? Explain different GC algorithms (G1, CMS, ZGC).
 3. What are strong, soft, weak, and phantom references in Java?
 4. How do you analyze and fix a memory leak in a Java application (heap dump analysis)?
