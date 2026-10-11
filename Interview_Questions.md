@@ -132,7 +132,7 @@
 96. Access Token vs Refresh Token — why does the Refresh Token have a longer expiry?
 97. What happens when the Access Token expires?
 98. Filter vs Interceptor — why does Spring Security use Filters instead of Interceptors?
-99. What is CSRF? What is CORS?
+99. [What is CSRF? What is CORS?](https://freedium-mirror.cfd/@CodeWithTech/understanding-cors-and-csrf-a-guide-for-spring-security-feb34b81a3a4)
 100. `hasRole()` vs `hasAuthority()`.
 101. What is method-level security? How does `@PreAuthorize` work?
 102. What are `Authentication` and `SecurityContext`? How does session management work?
