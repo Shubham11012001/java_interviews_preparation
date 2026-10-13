@@ -22,7 +22,7 @@
 11. Explain SOLID principles with real-world examples.
 12. Abstraction vs Encapsulation — real-world example.
 13. Describe a scenario where using inheritance instead of composition broke the design.
-14. Give a real production example where the Liskov Substitution Principle was violated.
+14. [Give a real production example where the Liskov Substitution Principle was violated.](https://medium.com/@marisama11239/the-liskov-substitution-principle-explained-with-real-world-examples-02f8158f9375)
 15. How does the diamond problem get resolved in Java through default methods in interfaces?
 16. Why aren't multiple abstract methods allowed in functional interfaces?
 17. What are the correct use cases for the `Optional` class, and how is it commonly misused?
